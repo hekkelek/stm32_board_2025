@@ -48,7 +48,7 @@
         "silk_text_thickness": 0.15,
         "silk_text_upright": false,
         "zones": {
-          "min_clearance": 0.5
+          "min_clearance": 0.25
         }
       },
       "diff_pair_dimensions": [
@@ -58,16 +58,7 @@
           "width": 0.0
         }
       ],
-      "drc_exclusions": [
-        "extra_footprint|110693200|79756000|06bb064e-5cf8-42e4-a047-03cedbf0a037|00000000-0000-0000-0000-000000000000",
-        "lib_footprint_issues|112768185|85678107|36963056-0431-4009-8f00-525085e00b0f|00000000-0000-0000-0000-000000000000",
-        "silk_over_copper|173518664|103816697|bc737f84-f53c-4b37-a1d5-3da7a7fd3855|00000000-0000-0000-0000-000000000000",
-        "silk_over_copper|174208462|113524942|3d6601b4-272d-4e84-bdd4-81a539aebaf5|00000000-0000-0000-0000-000000000000",
-        "silk_over_copper|174240515|103361331|72724269-cf68-4fcd-93a5-bdaf087ef3a0|00000000-0000-0000-0000-000000000000",
-        "silk_over_copper|175043324|104140858|5232cb07-4808-44c6-a88d-0b56195f2c58|00000000-0000-0000-0000-000000000000",
-        "silk_over_copper|178478062|113056000|75014aee-1503-4c80-95a6-ea7aafa3f84a|00000000-0000-0000-0000-000000000000",
-        "text_height|133095500|112064900|f8e7a612-e9e2-472b-a3db-85db09e64b3e|00000000-0000-0000-0000-000000000000"
-      ],
+      "drc_exclusions": [],
       "meta": {
         "version": 2
       },
@@ -458,7 +449,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "Tanfolyam_alappanel.kicad_pro",
+    "filename": "stm32_board_2025.kicad_pro",
     "version": 1
   },
   "net_settings": {
